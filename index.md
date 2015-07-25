@@ -49,6 +49,13 @@ time_taken
 
 ## Conclusion
 
+Through the usage of this app, it can be seen that the time taken for light to reach Earth
+from different planets varies significantly. 
+
+This app is obviously extremely simple, making simplifications - for example, the distances of objects
+from Earth vary depending on the points along their orbits around the Sun, but in the app, the 
+average distance is used.
+
 It is important for humanity to be curious about the environment beyond Earth. 
 Recently we have seen accomplishments by space programs around the world, including the recent
 flyby of Pluto.
